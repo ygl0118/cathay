@@ -1,4 +1,5 @@
 from selenium import webdriver
+import time
 import logging
 
 driver = webdriver.Chrome()
